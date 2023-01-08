@@ -1,0 +1,322 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "Other.App",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Binarytree",
+            "request": "launch",
+            "mainClass": "Other.Binarytree",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm02",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm02",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm03",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm03",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm04",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm04",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm05",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm05",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm06",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm06",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm07",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm07",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm08",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm08",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm09",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm09",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm10",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm10",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimaryAlgorithm11",
+            "request": "launch",
+            "mainClass": "Other.PrimaryAlgorithm11",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Other.Solution",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution2",
+            "request": "launch",
+            "mainClass": "Other.Solution2",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch arrayPairSum",
+            "request": "launch",
+            "mainClass": "Other.arrayPairSum",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch containsDuplicate",
+            "request": "launch",
+            "mainClass": "Other.containsDuplicate",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch containsNearbyDuplicate",
+            "request": "launch",
+            "mainClass": "Other.containsNearbyDuplicate",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch findMaxConsecutiveOnes",
+            "request": "launch",
+            "mainClass": "Other.findMaxConsecutiveOnes",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch findMin",
+            "request": "launch",
+            "mainClass": "Other.findMin",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch findPeakElement",
+            "request": "launch",
+            "mainClass": "Other.findPeakElement",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch findRestaurant",
+            "request": "launch",
+            "mainClass": "Other.findRestaurant",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstBadVersion",
+            "request": "launch",
+            "mainClass": "Other.firstBadVersion",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstUniqChar",
+            "request": "launch",
+            "mainClass": "Other.firstUniqChar",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch generate",
+            "request": "launch",
+            "mainClass": "Other.generate",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch getRow",
+            "request": "launch",
+            "mainClass": "Other.getRow",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch intersect",
+            "request": "launch",
+            "mainClass": "Other.intersect",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch intersection",
+            "request": "launch",
+            "mainClass": "Other.intersection",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch intersectionSizeTwo",
+            "request": "launch",
+            "mainClass": "Other.intersectionSizeTwo",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch isHappy",
+            "request": "launch",
+            "mainClass": "Other.isHappy",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch isValidSudoku",
+            "request": "launch",
+            "mainClass": "Other.isValidSudoku",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch longestCommonPrefix",
+            "request": "launch",
+            "mainClass": "Other.longestCommonPrefix",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch minSubArrayLen",
+            "request": "launch",
+            "mainClass": "Other.minSubArrayLen",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch mySqrt",
+            "request": "launch",
+            "mainClass": "Other.mySqrt",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "Other.removeDuplicates",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeElement",
+            "request": "launch",
+            "mainClass": "Other.removeElement",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseWordIII",
+            "request": "launch",
+            "mainClass": "Other.reverseWordIII",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseWords",
+            "request": "launch",
+            "mainClass": "Other.reverseWords",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchI",
+            "request": "launch",
+            "mainClass": "Other.searchI",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchII",
+            "request": "launch",
+            "mainClass": "Other.searchII",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch searchRange",
+            "request": "launch",
+            "mainClass": "Other.searchRange",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch singleNumber",
+            "request": "launch",
+            "mainClass": "Other.singleNumber",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch strStr",
+            "request": "launch",
+            "mainClass": "Other.strStr",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Matrix_rotation",
+            "request": "launch",
+            "mainClass": "QuestionsEasy.Matrix_rotation",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Queues",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.Queues",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        }
+    ]
+}
