@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch crackSafe",
+            "request": "launch",
+            "mainClass": "Daily.crackSafe",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Solution",
+            "request": "launch",
+            "mainClass": "Daily.Solution",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
