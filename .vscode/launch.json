@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch openLock",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.openLock",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Island",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.Island",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.test",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
             "name": "Launch crackSafe",
             "request": "launch",
             "mainClass": "Daily.crackSafe",
