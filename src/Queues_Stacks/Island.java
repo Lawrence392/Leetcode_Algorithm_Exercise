@@ -10,17 +10,14 @@ public class Island {
             {'1','0','1','1','0'},
             {'1','0','1','1','0'}
         };
-        System.out.println(Solution.numIslands(grid));
+        System.out.println(Solution(grid));
         double [] inds = {0.0,1};
         System.out.println(inds[0]);
         System.out.println(inds[1]);
         
         
     }
-}
-
-class Solution {
-    public static int numIslands(char[][] grid) {
+    public static int Solution(char[][] grid) {
         int count = 0;
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {

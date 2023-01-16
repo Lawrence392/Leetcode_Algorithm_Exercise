@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch areSentencesSimilar",
+            "request": "launch",
+            "mainClass": "Daily.areSentencesSimilar",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch evalRPN",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.evalRPN",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch dailyTemperatures",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.dailyTemperatures",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch isValid",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.isValid",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch minMaxGame",
+            "request": "launch",
+            "mainClass": "Daily.minMaxGame",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch a",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.a",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
+            "name": "Launch numSquares",
+            "request": "launch",
+            "mainClass": "Queues_Stacks.numSquares",
+            "projectName": "Leetcode_Algorithm_Exercise_a2f23c7e"
+        },
+        {
+            "type": "java",
             "name": "Launch openLock",
             "request": "launch",
             "mainClass": "Queues_Stacks.openLock",
